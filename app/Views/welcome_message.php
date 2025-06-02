@@ -227,7 +227,7 @@
 
         <h1>SELAMAT DATANG DI CI4<?= CodeIgniter\CodeIgniter::CI_VERSION ?></h1>
 
-        <h2>The small framework with powerful features</h2>
+        <h2>Aku sedang membuat fitur login</h2>
 
     </div>
 
